@@ -1,0 +1,32 @@
+{
+  "name": "@alexzhang1030/eslint-config-react",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexzhang1030/config.git"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "alexzhang1030 <alexzhang1030@foxmail.com> (https://github.com/alexzhang1030)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexzhang1030/config/issues"
+  },
+  "homepage": "https://github.com/alexzhang1030/config#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@alexzhang1030/eslint-config-typescript": "workspace:^0.0.2",
+    "eslint-plugin-react": "^7.29.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}

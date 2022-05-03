@@ -1,0 +1,31 @@
+{
+  "name": "@alexzhang1030/eslint-config-basic",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexzhang1030/config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexzhang1030/config/issues"
+  },
+  "homepage": "https://github.com/alexzhang1030/config#readme",
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
