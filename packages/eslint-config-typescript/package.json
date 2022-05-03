@@ -1,6 +1,6 @@
 {
   "name": "@alexzhang1030/eslint-config-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@alexzhang1030/eslint-config-basic": "workspace:^0.0.1",
+    "@alexzhang1030/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.22.0",
     "@typescript-eslint/parser": "^5.22.0"
   },

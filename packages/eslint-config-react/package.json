@@ -1,6 +1,6 @@
 {
   "name": "@alexzhang1030/eslint-config-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@alexzhang1030/eslint-config-typescript": "workspace:^0.0.2",
+    "@alexzhang1030/eslint-config-typescript": "workspace:*",
     "eslint-plugin-react": "^7.29.4"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "@alexzhang1030/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@alexzhang1030/eslint-config-react": "workspace:^0.0.1",
-    "@alexzhang1030/eslint-config-vue": "workspace:^0.0.1"
+    "@alexzhang1030/eslint-config-react": "workspace:*",
+    "@alexzhang1030/eslint-config-vue": "workspace:*"
   },
   "devDependencies": {
     "eslint": "^8.14.0"
