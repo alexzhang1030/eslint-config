@@ -14,8 +14,8 @@ importers:
 
   packages/eslint-config-all:
     specifiers:
-      '@alexzhang1030/eslint-config-react': workspace:^0.0.1
-      '@alexzhang1030/eslint-config-vue': workspace:^0.0.1
+      '@alexzhang1030/eslint-config-react': workspace:*
+      '@alexzhang1030/eslint-config-vue': workspace:*
       eslint: ^8.14.0
     dependencies:
       '@alexzhang1030/eslint-config-react': link:../eslint-config-react
@@ -37,7 +37,7 @@ importers:
 
   packages/eslint-config-react:
     specifiers:
-      '@alexzhang1030/eslint-config-typescript': workspace:^0.0.2
+      '@alexzhang1030/eslint-config-typescript': workspace:*
       eslint: ^8.14.0
       eslint-plugin-react: ^7.29.4
     dependencies:
@@ -48,7 +48,7 @@ importers:
 
   packages/eslint-config-typescript:
     specifiers:
-      '@alexzhang1030/eslint-config-basic': workspace:^0.0.1
+      '@alexzhang1030/eslint-config-basic': workspace:*
       '@typescript-eslint/eslint-plugin': ^5.22.0
       '@typescript-eslint/parser': ^5.22.0
       eslint: ^8.14.0
