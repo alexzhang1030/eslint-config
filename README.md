@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-pnpm i -D eslint @alexzhang1030/eslint-config
+pnpm i -D eslint @alexzzz/eslint-config
 ```
 
 ## Configure
@@ -17,7 +17,7 @@ in your `.eslintrc`
 
 ```json
 {
-  "extends": "@alexzhang1030/eslint-config"
+  "extends": "@alexzzz/eslint-config"
 }
 ```
 

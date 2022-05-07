@@ -1,11 +1,11 @@
-# @alexzhang1030/eslint-config
+# @alexzzz/eslint-config
 
 ESLint config for my personal projects.
 
 ## Install
 
 ```bash
-pnpm i eslint @alexzhang1030/eslint-config -D
+pnpm i eslint @alexzzz/eslint-config -D
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ pnpm i eslint @alexzhang1030/eslint-config -D
 ```json
 {
   "extends": [
-    "@alexzhang1030/eslint-config"
+    "@alexzzz/eslint-config"
   ]
 }
 ```

@@ -1,11 +1,11 @@
-# @alexzhang1030/eslint-config-typescript
+# @alexzzz/eslint-config-typescript
 
 ESLint config for my personal projects.
 
 ## Install
 
 ```bash
-pnpm i eslint @alexzhang1030/eslint-config-typescript -D
+pnpm i eslint @alexzzz/eslint-config-typescript -D
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ pnpm i eslint @alexzhang1030/eslint-config-typescript -D
 ```json
 {
   "extends": [
-    "@alexzhang1030/eslint-config-typescript"
+    "@alexzzz/eslint-config-typescript"
   ]
 }
 ```

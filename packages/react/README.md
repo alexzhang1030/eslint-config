@@ -1,11 +1,11 @@
-# @alexzhang1030/eslint-config-react
+# @alexzzz/eslint-config-react
 
 ESLint config for my personal projects.
 
 ## Install
 
 ```bash
-pnpm i eslint @alexzhang1030/eslint-config-react -D
+pnpm i eslint @alexzzz/eslint-config-react -D
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ pnpm i eslint @alexzhang1030/eslint-config-react -D
 ```json
 {
   "extends": [
-    "@alexzhang1030/eslint-config-react"
+    "@alexzzz/eslint-config-react"
   ]
 }
 ```

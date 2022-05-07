@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'plugin:react/recommended',
-    '@alexzhang1030/eslint-config-typescript',
+    '@alexzzz/eslint-config-typescript',
   ],
   settings: {
     react: {
