@@ -1,6 +1,6 @@
 {
   "name": "config",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexzhang1030/config.git"
+    "url": "git+https://github.com/alexzzz/config.git"
   },
   "keywords": [],
-  "author": "alexzhang1030 <alexzhang1030@foxmail.com> (https://github.com/alexzhang1030)",
+  "author": "alexzzz <alexzzz@foxmail.com> (https://github.com/alexzzz)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexzhang1030/config/issues"
+    "url": "https://github.com/alexzzz/config/issues"
   },
-  "homepage": "https://github.com/alexzhang1030/config#readme",
+  "homepage": "https://github.com/alexzzz/config#readme",
   "devDependencies": {
     "bumpp": "^7.1.1",
     "eslint": "^8.14.0",
